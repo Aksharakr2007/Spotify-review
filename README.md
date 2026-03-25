@@ -39,3 +39,7 @@ The app has a clean and simple interface. It is easy to search for songs and cre
 
 ## 📝 Conclusion
 Spotify is one of the best music streaming apps with great features and user experience. It is highly#  In
+## Screenshots
+
+![Screenshot 1](Screenshot_20260321_1.jpg)
+![Screenshot 2](Screenshot_20260321_2.jpg)
